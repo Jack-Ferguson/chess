@@ -1,6 +1,8 @@
 # chess
 A local two player chess game written in Java
 
+This project was built using https://processing.org/ for graphics.
+
 Improvements I want to make:
 
   -currently there is no draw mechanic, I need to learn the different types of draws and implement them
